@@ -1,0 +1,6 @@
+load: startup
+name: stoned-in
+version: 1.0
+api-version: "1.16"
+main: io.github.officereso.Main
+depend: [WorldGeneratorApi]
